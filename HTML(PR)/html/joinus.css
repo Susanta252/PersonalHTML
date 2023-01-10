@@ -1,0 +1,129 @@
+.main{
+    width: 100%;
+    background: linear-gradient;
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+    padding-top: 25px;
+}
+
+.navbar{
+    width: 1300px;
+    height: 70px;
+    margin: auto;
+    padding-top: 25px;
+
+}
+.icon{
+    width: 200px;
+    float: left;
+    height: 50px;
+    padding-top: auto;
+}
+.main .navbar .icon img{
+    position: relative;
+    margin-bottom: 100px;
+    margin-right: 40px;
+    margin-top: -90px;
+    margin-left: 0px;
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-image: url(32822.jpg);
+    background-size: 2000px;
+    background-position: center;
+}
+.logo{
+    color: #ff7200;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    float: left;
+    padding-top: 15px;
+    margin-left: 60px;
+}
+.sign-up-form{
+    width: 350px;
+    box-shadow:  0 0 3px 0 rgba(0,0,0,0.3);
+    background: #fff;
+    padding: 20px;
+    margin: 8% auto 0%;
+    text-align: center;
+}
+.sign-up-form h1{
+    color: #1c8adb;
+    margin-bottom: 30px;
+}
+.input-box{
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px 0;
+    width: 90%;
+    border: 1px solid #999;
+    outline: none;
+    text-align: left;
+    background: transparent;
+}
+button{
+    color: #fff;
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 10px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+.signup-btn{
+    background-color: #1c8adb;
+}
+a{
+    text-decoration: none;
+}
+hr{
+    margin-top: 20px;
+    width: 80%;
+}
+.icon{
+    width: 200px;
+    float: left;
+    height: 70px;
+}
+.icons a{
+    text-decoration: none;
+    color: #000;
+}
+.icons ion-icon{
+    color: #000;
+    font-size: 30px;
+    padding-left: 14px;
+    padding-top: 5px;
+    transition: 0.3s ease;
+}
+.icons ion-icon:hover{
+    color: #1c8adb;
+}
+img{
+    width: 70px;
+    margin-top: -50px;
+}
+.or{
+    background: #fff;
+    width: 30px;
+    margin: -19px auto 10px;
+}
+.btnn{
+    width: 240px;
+    height: 40px;
+    background: #1c8adb;
+    border: none;
+    margin-top: 30px;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+    color: #fff;
+    transform: 0.4s ease;
+}
